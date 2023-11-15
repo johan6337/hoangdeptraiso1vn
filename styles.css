@@ -1,0 +1,80 @@
+
+body
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+.name{
+       
+        margin-left:1cm;
+        margin-bottom: 10px;
+        margin-top:10px;
+        font-weight: bold;
+        font-size: 25px;
+    }
+.kk{
+    font-size: small;
+    font-style: italic;
+    margin-bottom: 10px;
+    margin-top:10px;
+    margin-left: 1cm;
+}
+h1{
+    margin-left :1cm;
+    margin-top: 2.5cm;
+}
+.haha{
+    margin-left : 1cm;
+}
+.haha1{
+    margin-left : 1cm;
+    text-decoration: underline;
+    font-size:large;
+    font-weight: bolder;
+}
+.huheo{
+    text-decoration: none;
+    color: #ff0000;
+    font-weight: bolder;
+}
+/* Trong main.css hoặc bất kỳ file CSS khác mà bạn đang sử dụng */
+.anime img {
+    width: 1000px; /* hoặc bất kỳ giá trị chiều rộng nào mà bạn muốn */
+    max-width: 1000px; /* hoặc bất kỳ giá trị max-width nào mà bạn muốn */
+    height: auto; /* Giữ tỷ lệ khung hình */
+    display: block; /* Loại bỏ khoảng trắng dư thừa dưới hình ảnh */
+    margin: auto; /* Canh giữa hình ảnh */
+    margin-right: auto;
+}
+.vv{
+    text-align: center;
+    margin-top: 1cm;
+}
+.aa{
+    border: 1px solid black;
+}
+.facebook-button, .instagram-button {
+    display: inline-block;
+    background-color: #1877f2; /* Màu nền của nút Facebook */
+    color: #fff; /* Màu chữ của nút Facebook */
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.facebook-button:hover ,.instagram-button:hover {
+    background-color: #1558b6; /* Màu nền khi di chuột qua */
+}
+.huheo:hover{
+    color: #B31942;
+}
+.instagram-button {
+    background-color: #e4405f; /* Màu nền của nút Instagram */
+}
+
+    
